@@ -1,0 +1,13 @@
+In Organise.h 
+
+https://linuxhint.com/while_read_line_bash/
+
+https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+
+In Download.sh
+
+https://www.tecmint.com/run-linux-command-with-time-limit-and-timeout/
+
+https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+
+https://www.geeksforgeeks.org/sort-command-linuxunix-examples/
